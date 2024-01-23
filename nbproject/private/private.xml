@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/JavaWorkspace/ShoppingWeb/ShoppingWeb/web/views/UpdateProduct.jsp</file>
+            <file>file:/D:/JavaWorkspace/ShoppingWeb/ShoppingWeb/src/java/controller/OrderManager.java</file>
+            <file>file:/D:/JavaWorkspace/ShoppingWeb/ShoppingWeb/src/java/dal/DAOCategory.java</file>
+            <file>file:/D:/JavaWorkspace/ShoppingWeb/ShoppingWeb/src/java/dal/DAOProduct.java</file>
+            <file>file:/D:/JavaWorkspace/ShoppingWeb/ShoppingWeb/src/java/controller/ManageController.java</file>
+            <file>file:/D:/JavaWorkspace/ShoppingWeb/ShoppingWeb/src/java/controller/CartServlet.java</file>
+            <file>file:/D:/JavaWorkspace/ShoppingWeb/ShoppingWeb/src/java/controller/LoginServlet.java</file>
+            <file>file:/D:/JavaWorkspace/ShoppingWeb/ShoppingWeb/web/views/Home.jsp</file>
+            <file>file:/D:/JavaWorkspace/ShoppingWeb/ShoppingWeb/web/style.css</file>
+            <file>file:/D:/JavaWorkspace/ShoppingWeb/ShoppingWeb/web/views/Cart.jsp</file>
+            <file>file:/D:/JavaWorkspace/ShoppingWeb/ShoppingWeb/web/views/OrderManager.jsp</file>
+            <file>file:/D:/JavaWorkspace/ShoppingWeb/ShoppingWeb/web/views/Login.jsp</file>
+        </group>
+    </open-files>
+</project-private>
